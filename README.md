@@ -1,4 +1,4 @@
-# MiniProject03
+# BloggingSite
 
 This Project provides a simple Blogging Platform for content writers & bloggers etc.
 
