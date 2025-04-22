@@ -19,7 +19,7 @@ Please make sure to update tests as appropriate.
 Go to your directory and run follwing command in bash.
 
 ```python
-git clone https://github.com/nayaksatya1232/MiniProject03.git
+git clone https://github.com/nayaksatya4332/BloggingSite-MVC02.git
 ```
 ## Ongoing Functionalities
 
