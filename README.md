@@ -4,7 +4,7 @@ This Project provides a simple Blogging Platform for content writers & bloggers 
 
 ## Tech Stack
 
-Spring Boot,Sping Data JPA,Thymeleaf,Bootstrap,JQuery
+Spring Boot,Sping Data JPA,Thymeleaf,Bootstrap,JQuery, MySQL
 
 Reviewed using SonarQube
 
